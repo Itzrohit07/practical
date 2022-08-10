@@ -8,7 +8,7 @@ public class rectangle {
         int area=s1*s2;
         int perimeter=2*(s1+s2);
         System.out.println("area"+area);
-        System.out.println("perimeter"+perimeter);5
+        System.out.println("perimeter"+perimeter);
                 
     }
 }
