@@ -1,3 +1,4 @@
+// switch the number in output
 import java.util.*;
 public class switch1 {
     public static void main(String[] args) {
